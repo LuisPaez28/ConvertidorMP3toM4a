@@ -6,7 +6,7 @@ import os
 # Configuración básica de la página
 st.set_page_config(page_title="Convertidor a MP3", page_icon="🎵")
 
-st.title("🎵 Convertidor Universal a MP3")
+st.title("Convertidor a MP3")
 # Actualizamos la descripción para incluir .ogg
 st.write("Sube tus archivos de audio (`.m4a`, `.ogg`) o video (`.mp4`) y extrae el audio en `.mp3` fácilmente.")
 
